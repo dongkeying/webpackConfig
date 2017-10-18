@@ -1,0 +1,8 @@
+@import './yo/base';
+@import './yo/variables';
+@import './yo/reset';
+
+@import './modules/index';
+body{
+    background: $baseColor;
+}
